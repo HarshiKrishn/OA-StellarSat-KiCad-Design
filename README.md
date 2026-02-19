@@ -36,3 +36,8 @@ To measure temperature, humidity, pressure, and air quality parameters and trans
 
 ### Bottom View
 ![Bottom](bottom3d_oa.png)
+
+## 👤 Author
+
+Designed and developed by Harshini  
+Embedded Systems & PCB Design Enthusiast
