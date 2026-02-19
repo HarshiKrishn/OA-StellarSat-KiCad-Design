@@ -28,11 +28,11 @@ To measure temperature, humidity, pressure, and air quality parameters and trans
 ## 3D PCB View
 
 ### Top View
-![Top View](images/top3d_oa.png)
+![Top View](top3d_oa.png)
 
 ### Isometric View
-![Isometric](images/angled3d_oa.png)
+![Isometric](angled3d_oa.png)
 
 
 ### Bottom View
-![Bottom](images/bottom3d_oa.png)
+![Bottom](bottom3d_oa.png)
